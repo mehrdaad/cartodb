@@ -1,6 +1,6 @@
 {
   "name": "cartodb-ui",
-  "version": "4.10.91",
+  "version": "4.10.92",
   "dependencies": {
     "accessory": {
       "version": "1.0.1",
@@ -331,9 +331,9 @@
       "resolved": "https://registry.npmjs.org/cartocolor/-/cartocolor-4.0.0.tgz"
     },
     "cartodb-deep-insights.js": {
-      "version": "0.4.18",
-      "from": "cartodb/deep-insights.js#v0.4.18",
-      "resolved": "git://github.com/cartodb/deep-insights.js.git#90da451ad3827c34a26c76d3b9503bce6b0bdb42",
+      "version": "0.4.20",
+      "from": "cartodb/deep-insights.js#fix_choropleth_template",
+      "resolved": "git://github.com/cartodb/deep-insights.js.git#0274694a50ca20aa170bf3b76b655953f3d0ba02",
       "dependencies": {
         "node-polyglot": {
           "version": "2.2.2",
@@ -349,8 +349,8 @@
     },
     "cartodb.js": {
       "version": "4.0.0-alpha.29",
-      "from": "cartodb/cartodb.js#v4.0.0-alpha.29",
-      "resolved": "git://github.com/cartodb/cartodb.js.git#f299989864d3f07d744f0c82802f3c27e32b5561"
+      "from": "cartodb/cartodb.js#fix_cloropeth_one_bucket_legend",
+      "resolved": "git://github.com/cartodb/cartodb.js.git#3b7350c35fc5289cfff7d1ef73754ddcb24f9620"
     },
     "center-align": {
       "version": "0.1.3",
@@ -432,9 +432,9 @@
       "resolved": "https://registry.npmjs.org/combine-source-map/-/combine-source-map-0.7.2.tgz"
     },
     "commander": {
-      "version": "2.12.1",
+      "version": "2.12.2",
       "from": "commander@>=2.12.0 <2.13.0",
-      "resolved": "https://registry.npmjs.org/commander/-/commander-2.12.1.tgz"
+      "resolved": "https://registry.npmjs.org/commander/-/commander-2.12.2.tgz"
     },
     "concat-map": {
       "version": "0.0.1",
@@ -1035,9 +1035,9 @@
       "resolved": "https://registry.npmjs.org/insert-module-globals/-/insert-module-globals-7.0.1.tgz"
     },
     "interpret": {
-      "version": "1.0.4",
+      "version": "1.1.0",
       "from": "interpret@>=1.0.0 <2.0.0",
-      "resolved": "https://registry.npmjs.org/interpret/-/interpret-1.0.4.tgz"
+      "resolved": "https://registry.npmjs.org/interpret/-/interpret-1.1.0.tgz"
     },
     "invert-kv": {
       "version": "1.0.0",
@@ -1167,9 +1167,9 @@
       "resolved": "https://registry.npmjs.org/jquery/-/jquery-2.1.4.tgz"
     },
     "js-base64": {
-      "version": "2.3.2",
+      "version": "2.4.0",
       "from": "js-base64@>=2.1.9 <3.0.0",
-      "resolved": "https://registry.npmjs.org/js-base64/-/js-base64-2.3.2.tgz"
+      "resolved": "https://registry.npmjs.org/js-base64/-/js-base64-2.4.0.tgz"
     },
     "js-tokens": {
       "version": "3.0.2",
