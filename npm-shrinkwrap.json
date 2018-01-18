@@ -341,9 +341,9 @@
       "resolved": "https://registry.npmjs.org/cartodb-pecan/-/cartodb-pecan-0.2.0.tgz"
     },
     "cartodb.js": {
-      "version": "4.0.0-beta.11",
+      "version": "4.0.0-beta.11-11341-1",
       "from": "cartodb/cartodb.js#11341-add-dblclick-event",
-      "resolved": "git://github.com/cartodb/cartodb.js.git#b2b4368d3bfca6bc3da8a37ffd0fdf155b761c34"
+      "resolved": "git://github.com/cartodb/cartodb.js.git#fbbfeb3428ef638a927e361fbfd918ed2ff745c2"
     },
     "center-align": {
       "version": "0.1.3",
